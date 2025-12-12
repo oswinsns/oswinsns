@@ -13,6 +13,7 @@ Alongside web development, I explored machine learning, working on projects such
 I enjoy experimenting with different tech stacks—from Chakra UI and React Icons for frontend design, to MySQL, JWT, and Excelize for backend solutions. These projects reflect my drive to learn by building, combining creativity with problem-solving to grow as a developer and aspiring data analyst.
 
 * 🌍  I'm based in Indonesia
+* 📄  See my CV at [MyCV](https://drive.google.com/drive/folders/1EYcKfoT5aRp3luGPXTgbNmZntuOKTK6R)
 * 🖥️  See my personal website portfolio at [MyPortofolio](https://portofolio-oswin-herman.vercel.app/)
 * ✉️  You can contact me at [oswinhs09@gmail.com](mailto:oswinhs09@gmail.com)
 * 🚀  I'm currently working on [ChakraUI/ShadcnUI](https://github.com/oswinsns/ProjectChakraUI)
